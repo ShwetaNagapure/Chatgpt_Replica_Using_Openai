@@ -9,3 +9,5 @@ OPENAI_API_KEY: You need to set this environment variable to your OpenAI API key
 
 <h2>#Acknowledgements</h2>
 This project uses the langchain library for interfacing with OpenAI's GPT models and gradio for building the user interface.
+<h2>Interface Screenshot </h2>
+![Screenshot 2024-05-03 144913](https://github.com/ShwetaNagapure/Chatgpt_Replica_Using_Openai/assets/133502201/69afe120-e709-4fec-9ccc-6c4123203762)
